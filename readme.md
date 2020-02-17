@@ -2,5 +2,5 @@ La création d'un formulaire et d'une authentification nécessite d'utiliser un 
 
 Tout d'abord j'ai créé une page web qui contient un formulaire et un service d'authentification avec bootstrap ensuite pour faire communiquer la page web et  une base de données, j'ai utilisé Phpmyadmin qui est une application Web de gestion  pour les systèmes de gestion de base de données avec cette application j'ai créé une table qui contient les informations lors de l'inscription du client cela ce fait par une requête SQL qui est intégrée dans une fonction PHP.
 
-Ensuite l'authentification passe par une requête SQl intégré dans une fonction PHP qui permet de vérifier l'exactitude du mot de passe et de l'adresse électronique, et la vérification des informations côté client a nécessité la création d'une fonction qui a pour but de vérifier si les champs sont remplis. 
+Ensuite l'authentification passe par une requête SQL intégré dans une fonction PHP qui permet de vérifier l'exactitude du mot de passe et de l'adresse électronique, et la vérification des informations côté client a nécessité la création d'une fonction qui a pour but de vérifier si les champs sont remplis. 
 
